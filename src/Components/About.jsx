@@ -1,6 +1,7 @@
 import React,{useRef} from 'react'
 import { motion } from "framer-motion"
-import { Skills } from './data/Links'
+// import { Skills } from './data/Links'
+import { Skills } from './data/data'
 import Exp from './Exp'
 
 
@@ -32,7 +33,7 @@ function About() {
         animate={{opacity:1, y:0}}
         transition={{
           duration:0.3,
-          delay:i * 0.2,
+          delay:i * 0.5,
         }}
         >{item.name}</motion.span>)}
         </div>

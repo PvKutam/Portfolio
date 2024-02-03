@@ -1,6 +1,6 @@
 import React,{useRef} from "react";
 import { motion,useScroll,useTransform } from "framer-motion";
-import { An9me,Pallet } from './data/Links'
+import { An9me,Pallet } from './data/data'
 
 function Projects(){
     const ref= useRef(null)
