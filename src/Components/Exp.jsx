@@ -1,7 +1,30 @@
 import React from 'react'
-import { Project } from './data/Links'
+// import { Project } from './data/links'
 import { motion } from "framer-motion"
 function Exp() {
+const Project =[
+
+    {
+      name:"React",
+      hash:"#React",
+    },
+    {
+      name: "Redux",
+      hash: "#Redux",
+    },
+    {
+      name: "Tailwind",
+      hash: "#Tailwind",
+    },
+    {
+      name: "React Router",
+      hash: "#React Router",
+    },
+    {
+      name: "Figma",
+      hash: "#Figma",
+    },
+  ]
   return (
     <div 
     id= 'Exp'
