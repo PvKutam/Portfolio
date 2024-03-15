@@ -14,7 +14,7 @@
       <BrowserRouter>
       <>
       <div className="flex flex-col items-center justify-between py-10 gap-10 w-full bg-[#131313]  ">
-        <main className= ' text-gray-950 bg-[#131313] ' >
+        <main className= ' text-gray-950 bg-[#231919] ' >
           <div className="bg-[#fbe2e3] absolute top-[-6rem]  right-[11rem]
           h-[31.25rem] w-[31.25rem] rounded-full blur-[10rem] sm:w-[68.75em] -z-50 " > 
           </div>
