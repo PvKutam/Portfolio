@@ -24,7 +24,29 @@ export const links = [
       hash: "#contact",
     },
   ] 
+  export const Project =[
 
+    {
+      name:"React",
+      hash:"#React",
+    },
+    {
+      name: "Redux",
+      hash: "#Redux",
+    },
+    {
+      name: "Tailwind",
+      hash: "#Tailwind",
+    },
+    {
+      name: "React Router",
+      hash: "#React Router",
+    },
+    {
+      name: "Figma",
+      hash: "#Figma",
+    },
+  ]
   export const Skills = [
     {
       name: "React",
@@ -96,29 +118,7 @@ export const links = [
     },
   ] 
 
-  export const Project =[
-
-    {
-      name:"React",
-      hash:"#React",
-    },
-    {
-      name: "Redux",
-      hash: "#Redux",
-    },
-    {
-      name: "Tailwind",
-      hash: "#Tailwind",
-    },
-    {
-      name: "React Router",
-      hash: "#React Router",
-    },
-    {
-      name: "Figma",
-      hash: "#Figma",
-    },
-  ]
+  
 
   export const An9me= [
     {

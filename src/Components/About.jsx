@@ -17,7 +17,7 @@ function About() {
     >
       <div className='flex flex-col gap-6 sm:gap-10'> 
       <h1 className='text-[18px] font-[400] sm:text-[22px]'>About</h1>
-        <p className='text-[14px] font-[400] sm:text-[16px] dark:text-[#bbbbbb]'>
+        <p className='text-[14px] font-[400] sm:text-[16px] text-[#bbbbbb]'>
         Hello, I'm Kutam Raju, a passionate software developer based in India. I  completed my Bachelor's degree in Information Technology.
         I find joy in the creative process of crafting solutions Whether it's building web applications, designing user interfaces.
         I'm on the lookout for exciting opportunities to use my skills, work on cool projects, and continue growing in the tech world. 

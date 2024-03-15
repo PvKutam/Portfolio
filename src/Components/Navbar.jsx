@@ -34,8 +34,10 @@ const Navbar = () => {
         
           </ScrollLink>
             </motion.li>
-               {/* About Link */}
-               <motion.li className='h-3/4 flex items-center justify-center' 
+
+
+               {/* Skills  */}
+            <motion.li className='h-3/4 flex items-center justify-center' 
                  initial={{y:-100,opacity:0}}
                 animate={{ y:0, opacity:1 }}>
                     <ScrollLink

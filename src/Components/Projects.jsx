@@ -28,8 +28,8 @@ const opacityProgress=useTransform(scrollYProgress,[0 ,1],[0.5,1])
                             border border-solid border-[#2d2d2d] text-[14]
                             h-[150px] bg-[#1c1c1c] shadow-md transition-border duration-200 ease-linear 
                             sm:p-6 sm:items-center md:h-[200px]
-                            hover:border-[#FFD700] hover:transition-all hover:duration-400 hover:ease-in-out hover:duration-400 hover:border-2
-                           dark:hover:border-stone-600 dark:hover:transition-all dark:hover:duration-400 dark:hover:ease-in-out dark:hover:duration-400
+                             hover:duration-400  hover:duration-400 hover:border-2
+                           hover:border-stone-600 hover:transition-all hover:duration-400 hover:ease-in-out hover:duration-400
                             " onClick={()=>{window.location.href = "https://an9me.vercel.app/";}}>
                             
                             
@@ -66,8 +66,8 @@ const opacityProgress=useTransform(scrollYProgress,[0 ,1],[0.5,1])
                             border border-solid border-[#2d2d2d] text-[14]
                             h-[150px] bg-[#1c1c1c] shadow-md transition-border duration-200 ease-linear 
                             sm:p-6 sm:items-center md:h-[200px]
-                            hover:border-[#FFD700] hover:transition-all hover:duration-400 hover:ease-in-out hover:duration-400 hover:border-2
-                           dark:hover:border-stone-600 dark:hover:transition-all dark:hover:duration-400 dark:hover:ease-in-out dark:hover:duration-400
+                              hover:duration-400 hover:duration-400 hover:border-2
+                           hover:border-stone-600 hover:transition-all hover:duration-400 hover:ease-in-out hover:duration-400
                             " onClick={()=>{window.location.href = "https://pallet-rho.vercel.app/";}}>
                             
                             
